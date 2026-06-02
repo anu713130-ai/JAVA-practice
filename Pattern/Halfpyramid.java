@@ -1,4 +1,4 @@
-package Basic;
+package Pattern;
 import java.util.Scanner;
 public class Halfpyramid {
     public static void main(String[] args) {

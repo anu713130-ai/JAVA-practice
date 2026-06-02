@@ -1,4 +1,4 @@
-package Basic;
+package Pattern;
 import java.util.Scanner;
 public class Invertedhalfpyramid {
     public static void main(String[] args) {
