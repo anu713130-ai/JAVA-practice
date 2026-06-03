@@ -1,4 +1,4 @@
-package Basic;
+package NumberbasedQ;
 import java.util.Scanner;
 public class Prime1to100print {
     public static void main(String[] args) {
