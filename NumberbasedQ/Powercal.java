@@ -1,0 +1,18 @@
+package NumberbasedQ;
+import java.util.Scanner;
+public class Powercal {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the number:");
+        int n=sc.nextInt();
+        System.out.println("Enter the exponent:");
+        int e=sc.nextInt();
+        int result=1;
+        for(int i=1;i<=e;i++)
+        {
+            result=result*n;
+        }
+        System.out.println("power is:"+result);
+
+    }
+}
