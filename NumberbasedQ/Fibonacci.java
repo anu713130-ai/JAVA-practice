@@ -6,7 +6,7 @@ public class Fibonacci {
         System.out.println("Enter the number:");
         int n=sc.nextInt();
         int a=0,b=1;
-        System.out.println("fibonacci series:");
+        System.out.println("Fibonacci series:");
         for(int i=1;i<=n;i++)
         {
             System.out.print(a+" ");
